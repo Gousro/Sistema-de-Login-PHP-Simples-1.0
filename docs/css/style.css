@@ -1,0 +1,26 @@
+/* CSS Document created by Gousro */
+
+div {
+	margin-bottom: 3px;
+}
+.login {
+	width: 240px;
+	height: 120px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	padding: 5px;
+	border-radius: 10px;
+}
+.titulo-login {
+	background-color: #171717;
+	margin: -21px -5px 0 -5px;
+	border-radius: 5px 5px 0 0;
+}
+.titulo-login p {
+	color: #fff;
+	text-align: center;
+	padding: 5px;
+}
+.botao-login {
+	margin-left: 48px;
+}
